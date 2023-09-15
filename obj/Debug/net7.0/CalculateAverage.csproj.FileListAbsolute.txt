@@ -1,0 +1,14 @@
+C:\Users\ProOne\Ugur\CalculateAverage\bin\Debug\net7.0\CalculateAverage.exe
+C:\Users\ProOne\Ugur\CalculateAverage\bin\Debug\net7.0\CalculateAverage.deps.json
+C:\Users\ProOne\Ugur\CalculateAverage\bin\Debug\net7.0\CalculateAverage.runtimeconfig.json
+C:\Users\ProOne\Ugur\CalculateAverage\bin\Debug\net7.0\CalculateAverage.dll
+C:\Users\ProOne\Ugur\CalculateAverage\bin\Debug\net7.0\CalculateAverage.pdb
+C:\Users\ProOne\Ugur\CalculateAverage\obj\Debug\net7.0\CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProOne\Ugur\CalculateAverage\obj\Debug\net7.0\CalculateAverage.AssemblyInfoInputs.cache
+C:\Users\ProOne\Ugur\CalculateAverage\obj\Debug\net7.0\CalculateAverage.AssemblyInfo.cs
+C:\Users\ProOne\Ugur\CalculateAverage\obj\Debug\net7.0\CalculateAverage.csproj.CoreCompileInputs.cache
+C:\Users\ProOne\Ugur\CalculateAverage\obj\Debug\net7.0\CalculateAverage.dll
+C:\Users\ProOne\Ugur\CalculateAverage\obj\Debug\net7.0\refint\CalculateAverage.dll
+C:\Users\ProOne\Ugur\CalculateAverage\obj\Debug\net7.0\CalculateAverage.pdb
+C:\Users\ProOne\Ugur\CalculateAverage\obj\Debug\net7.0\CalculateAverage.genruntimeconfig.cache
+C:\Users\ProOne\Ugur\CalculateAverage\obj\Debug\net7.0\ref\CalculateAverage.dll
